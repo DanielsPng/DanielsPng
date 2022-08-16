@@ -1,11 +1,9 @@
 # Daniel's  <img src="https://c.tenor.com/GocCvG7hs78AAAAj/rocket-joypixels.gif" height="50px"> 
-## _The Last Markdown Editor, Ever_
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-> The overriding design goal for Markdown's
-> formatting syntax is to make it as readable
+> Asa de urubu
+> pena de galinha
 > as possible. The idea is that a
 > Markdown-formatted document should be
 > publishable as-is, as plain text, without
