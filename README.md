@@ -1,4 +1,4 @@
-# Daniel's
+# Daniel's  <img src="https://c.tenor.com/GocCvG7hs78AAAAj/rocket-joypixels.gif" height="50px"> 
 ## _The Last Markdown Editor, Ever_
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
