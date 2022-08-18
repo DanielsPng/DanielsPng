@@ -2,13 +2,9 @@
 
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-> Asa de urubu
-> pena de galinha
-> as possible. The idea is that a
-> Markdown-formatted document should be
-> publishable as-is, as plain text, without
-> looking like it's been marked up with tags
-> or formatting instructions.
+> The secret of creativity is knowing how to hide the fonts.
+
+unknown source
 
 ### Most used techs
 
