@@ -1,7 +1,6 @@
 # Daniel's  <img src="https://c.tenor.com/GocCvG7hs78AAAAj/rocket-joypixels.gif" height="50px"> 
 
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 > The secret of creativity is knowing how to hide the fonts.
 
 unknown source
