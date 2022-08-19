@@ -5,8 +5,7 @@
 
 unknown source
 
-#### quem canta seus males espanta 👇
-[<img src="https://cdn130.picsart.com/283020909021211.png" width="40%">](https://www.youtube.com/watch?v=avU2aarQUiU) 
+[<img src="https://cdn130.picsart.com/283020909021211.png" width="10%">](https://www.youtube.com/watch?v=avU2aarQUiU) 
 
 ## Most used techs
 
