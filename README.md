@@ -19,5 +19,9 @@ unknown source
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
+## Social Media
+<a href="https://www.instagram.com/daniells.png" target="_blanked"><img src="https://img.shields.io/badge/Instagram-f2003c?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
+
 
 
