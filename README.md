@@ -5,8 +5,6 @@
 
 unknown source
 
-[<img src="https://cdn130.picsart.com/283020909021211.png" width="20%">](https://www.youtube.com/watch?v=avU2aarQUiU) 
-
 ## Most used techs
 
 <p>
