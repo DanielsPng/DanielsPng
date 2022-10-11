@@ -1,4 +1,4 @@
-# Daniel's  <img src="https://c.tenor.com/GocCvG7hs78AAAAj/rocket-joypixels.gif" height="50px"> 
+# Welcome  <img src="https://c.tenor.com/GocCvG7hs78AAAAj/rocket-joypixels.gif" height="50px"> 
 
 
 > The secret of creativity is knowing how to hide the fonts.
@@ -7,6 +7,8 @@ unknown source
 
 ## Most used techs
 
+
+<div align="center">
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-circle&logo=javascript&logoColor=black" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-circle&logo=sass&logoColor=white" />
@@ -18,7 +20,12 @@ unknown source
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-89CFF0?style=flat-circle&logo=mysql&logoColor=black" />
 </p>
 
+  <a href="https://github.com/danielspng">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielspng&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
   ![Snake animation](https://github.com/danielspng/danielspng/blob/output/github-contribution-grid-snake.svg)
+
 
 ## Social Media
 <a href="https://www.instagram.com/daniells.png" target="_blanked"><img src="https://img.shields.io/badge/Instagram-f2003c?style=for-the-badge&logo=instagram&logoColor=white"></a>
