@@ -18,6 +18,8 @@ unknown source
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-89CFF0?style=flat-circle&logo=mysql&logoColor=black" />
 </p>
 
+  ![Snake animation](https://github.com/danielspng/danielspng/blob/output/github-contribution-grid-snake.svg)
+
 ## Social Media
 <a href="https://www.instagram.com/daniells.png" target="_blanked"><img src="https://img.shields.io/badge/Instagram-f2003c?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
