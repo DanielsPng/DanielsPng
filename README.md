@@ -1,10 +1,6 @@
 # Welcome  <img src="https://c.tenor.com/GocCvG7hs78AAAAj/rocket-joypixels.gif" height="50px"> 
 
 
-> The secret of creativity is knowing how to hide the fonts.
-
-unknown source
-
 ## Most used techs
 
 
