@@ -22,7 +22,6 @@
   <img alt="Vue.Js" src="https://img.shields.io/badge/-Vue.Js-2965f1?style=flat-circle&logo=vue.js&logoColor=white" />
 </p>
 
-  ![Snake animation](https://github.com/danielspng/danielspng/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
