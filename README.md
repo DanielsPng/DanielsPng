@@ -19,7 +19,6 @@
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-2965f1?style=flat-circle&logo=react&logoColor=white" />
-  <img alt="Vue.Js" src="https://img.shields.io/badge/-Vue.Js-2965f1?style=flat-circle&logo=vue.js&logoColor=white" />
 </p>
 
 </div>
