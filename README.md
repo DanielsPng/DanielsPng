@@ -1,5 +1,4 @@
-# Welcome  <img src="https://c.tenor.com/GocCvG7hs78AAAAj/rocket-joypixels.gif" height="50px"> 
-## Acordar pra vida e estudar
+# Acordar pra vida e estudar
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-A020F0?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-A020F0?style=flat-square&logo=sass&logoColor=white" />
